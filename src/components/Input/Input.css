@@ -1,0 +1,14 @@
+/* Input styles */
+
+.inp {
+  max-height: 2rem;
+  font-size: 2rem;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-bottom-style: groove;
+  border-left-style: hidden;
+}
+
+.inp:focus {
+  outline: none;
+}
